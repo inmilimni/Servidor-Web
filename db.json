@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "64d5",
+      "username": "Kate U"
+    },
+    {
+      "id": "2334",
+      "username": "Samantha"
+    },
+    {
+      "id": "1f89",
+      "username": "Dolores"
+    },
+    {
+      "id": "ceb8",
+      "username": "Kate E"
+    },
+    {
+      "id": "c85e",
+      "username": "Maria"
+    },
+    {
+      "id": "173d",
+      "username": "Meli"
+    },
+    {
+      "id": "2d70",
+      "username": "Manuel"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "59aa",
+      "text": "pendejada",
+      "idU": "64d5",
+      "username": "Kate U"
+    },
+    {
+      "id": "1cda",
+      "text": "bbb",
+      "idU": "64d5",
+      "username": "Kate U"
+    },
+    {
+      "id": "6e86",
+      "text": "ggg",
+      "idU": "2d70",
+      "username": "Manuel",
+      "checked": true
+    },
+    {
+      "id": "2652",
+      "text": "cc",
+      "idU": "2d70",
+      "username": "Manuel",
+      "checked": true
+    },
+    {
+      "id": "7498",
+      "text": "vvv",
+      "idU": "2d70",
+      "username": "Manuel"
+    }
+  ]
+}
